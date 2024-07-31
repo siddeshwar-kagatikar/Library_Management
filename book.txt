@@ -1,0 +1,10 @@
+101 modified -3
+102 Dracula 5
+103 Americanah 5
+104 new_book 20
+105 Nightingale 7
+106 Rebecca 6
+107 Frankenstein 6
+108 Persuasion 13
+109 Atonement 13
+110 Marshmallow 24
